@@ -1,0 +1,26 @@
+{
+  "name": "nationalogger",
+  "version": "1.0.0",
+  "description": "This is a logger for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoinefamibelle/nationalogger.git"
+  },
+  "keywords": [
+    "Log",
+    "Logger"
+  ],
+  "author": "antoine.famibelle@epitech.eu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoinefamibelle/nationalogger/issues"
+  },
+  "homepage": "https://github.com/antoinefamibelle/nationalogger#readme",
+  "dependencies": {
+    "winston": "^3.3.3"
+  }
+}
