@@ -21,4 +21,4 @@ const logger = winston.createLogger({
 
 logger.add(new winston.transports.Console());
 
-module.exports.logger = logger;
+module.exports = logger;
